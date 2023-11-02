@@ -1,4 +1,4 @@
-[3:22 pm, 02/11/2023] It Is Me: #include <Wire.h>
+ #include <Wire.h>
 
 #include <LiquidCrystal_I2C.h>
 
